@@ -39,3 +39,5 @@ const createFooter = () => {
         <p class="footer-credit">K.</p>
         `;
 }
+
+createFooter();
