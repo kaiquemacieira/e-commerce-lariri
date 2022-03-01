@@ -1,14 +1,6 @@
 @import 'home.css';
 
-.hero-section{
-    width: 100%;
-    height: calc(100vh - 120px);
-    background-image: url('../Img/header.png');
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 
 .hero-section .logo{
     height: 150px;
@@ -37,7 +29,7 @@
 }
 
 .product-category{
-    padding: 0 10vw;
+    padding: 31px 10vw;
     font-size: 30px;
     font-weight: 500;
     margin-bottom: 40px;

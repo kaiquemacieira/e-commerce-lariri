@@ -3,20 +3,9 @@ const createFooter = () => {
 
     footer.innerHTML = `
     <div class="footer-content">
-            <img src="Img/light-logo.png" class="logo" alt="">
+        <img src="Img/logologo.png" class="logo" alt="">
             <div class="footer-ul-container">
-                <ul class="category">
-                    <li class="category-title">men</li>
-                    <li><a href="#" class="footer-link">camisetas</a></li>
-                    <li><a href="#" class="footer-link">acessórios</a></li>
-                    <li><a href="#" class="footer-link">croppeds</a></li>
-                </ul>
-                <ul class="category">
-                    <li class="category-title">wommen</li>
-                    <li><a href="#" class="footer-link">camisetas</a></li>
-                    <li><a href="#" class="footer-link">acessórios</a></li>
-                    <li><a href="#" class="footer-link">croppeds</a></li>
-                </ul>
+                
             </div>
             
 
